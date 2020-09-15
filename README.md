@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Bootstrap](https://getbootstrap.com/), [React-icons](https://react-icons.github.io/react-icons/).
 
+See it live at https://bipubipu.github.io/random-quote/
+
 ## Available Scripts
 
 In the project directory, you can run:
