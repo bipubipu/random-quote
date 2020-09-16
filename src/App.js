@@ -50,7 +50,11 @@ class App extends Component {
       const { quote, author } = quotes[selectedQuote];
       const color = this.state.colors[selectedColor];
       return (
-        <div id="quote-box" className="p-5 text-center" style={{ color }}>
+        <div
+          id="quote-box"
+          className="p-5 text-center"
+          style={{ color, borderColor: color }}
+        >
           <Quote
             quote={quote}
             author={author}
